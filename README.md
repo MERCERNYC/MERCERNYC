@@ -2,7 +2,7 @@
 
 _______________
 
->"Coding can create empowerment, equality and open up new opportunities for all.-AngelHack CEO Sabeen Ali
+>"Coding can create empowerment, equality and open up new opportunities for all".-AngelHack CEO Sabeen Ali
 
 _______________
 
