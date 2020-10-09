@@ -1,5 +1,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=mercernyc&show_icons=true&hide=stars&count_private=true&theme=prussian)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mercernyc" alt="mercernyc" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercernyc&layout=compact&theme=prussian)](https://github.com/mercernyc/github-readme-stats)
+
 
 <!--
 **MERCERNYC/MERCERNYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
