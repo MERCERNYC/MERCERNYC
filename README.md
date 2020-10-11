@@ -6,7 +6,6 @@ _______________
 
 _______________
 
-- 🔭 I’m currently working on covid19_tracker with React
-- 🌱 I’m currently learning Typescript & JavaScript Algorithms and Data Structures
+- 🌱 I’m currently learning Typescript, JavaScript Algorithms and Data Structures
 - 🌏 looking to collaborate on projects that pushes the boundaries of innovation 
 
