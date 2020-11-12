@@ -6,6 +6,6 @@ _______________
 
 _______________
 
-- 🌱 I’m currently learning Typescript, JavaScript Algorithms and Data Structures
-- 🌏 looking to collaborate on projects that pushes the boundaries of innovation 
+- 🌱 I’m currently learning JavaScript Algorithms and Data Structures 
+- 🌏 I'm looking to collaborate on projects that pushes the boundaries of innovation 
 
